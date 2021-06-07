@@ -6,7 +6,7 @@ This is a school project for summer 2021 IS601
 #### Meet The Team
 Anthony-Carl-Sison & Olushola Sadiq Anifowose
 
-Added Teams Linkedin Account
+Team Member Linkedin Account
 
 
 ## Feature- Added HomePage
