@@ -8,9 +8,22 @@ Anthony-Carl-Sison & Olushola Sadiq Anifowose
 
 
 ## Feature- Added HomePage
+Invention Of Internet
+
 Definition Of Internet
 
-Invention Of Internet
+#### Internet Components and Protocols
+Wires, Cable and Wifi
+
+IP Addresses and DNS
+
+Packets and Routing
+
+HTTP and HTML
+
+#### Internet Organizations
+ICANN
+W3c
 
 
 ## Feature- Added AboutPage
