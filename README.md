@@ -36,7 +36,7 @@ It was described as a fun way to learn how to plan, design, develop and collabor
 
 More importantly, it provides an in-depth learning opportunity about how the Internet came to be.
 
-![about](https://user-images.githubusercontent.com/78460565/121078612-2f2ee380-c7a7-11eb-9ea0-93297b203481.png)
+![about] (https://user-images.githubusercontent.com/78460565/121078612-2f2ee380-c7a7-11eb-9ea0-93297b203481.png)
 
 
 
