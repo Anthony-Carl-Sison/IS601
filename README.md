@@ -6,11 +6,27 @@ This is a school project for summer 2021 IS601
 #### Meet The Team
 Anthony-Carl-Sison & Olushola Sadiq Anifowose
 
+Team Member Linkedin Account
+
 
 ## Feature- Added HomePage
+Invention Of Internet
+
 Definition Of Internet
 
-Invention Of Internet
+#### Internet Components and Protocols
+Wires, Cable and Wifi
+
+IP Addresses and DNS
+
+Packets and Routing
+
+HTTP and HTML
+
+#### Internet Organizations
+ICANN
+
+W3c
 
 
 ## Feature- Added AboutPage
