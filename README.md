@@ -43,11 +43,11 @@ More importantly, it provides an in-depth learning opportunity about how the Int
 ## Feature- Added HistoryPage
 
 
-#### Browser Wars
+#### The Story Of Internet- Browser Wars
 
-#### Internet Search
+#### The Story Of Internet- Internet Search
 
-#### Dot Com Bubble
+#### The Story Of Internet- Dot Com Bubble
 
-#### People
+#### The Story Of Internet- People
 
