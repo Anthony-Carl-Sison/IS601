@@ -7,6 +7,9 @@ Anthony-Carl-Sison & Olushola Sadiq Anifowose
 
 Team Member Linkedin Account
 
+Anthony Carl Sison's LinkedIn : https://www.linkedin.com/in/anthony-sison/
+
+
 
 ## Feature- Added HomePage
 Invention Of Internet
