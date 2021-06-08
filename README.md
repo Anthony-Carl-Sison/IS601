@@ -10,20 +10,26 @@ Team Member Linkedin Account
 
 ## Feature- Added HomePage
 Invention Of Internet
+
 Video - (History Channel - The Invention of the Internet Mp4)
 
 Definition Of Internet
 
 #### Internet Components and Protocols
-Video - (Wires, Cable and Wifi Mp4)
+1. Wires, Cable and Wifi 
 
-IP Addresses and DNS
+Video - {Wires, Cable and Wifi Mp4)
+
+2. IP Addresses and DNS
+
 Video - ( IP Addresses and DNS mp4)
 
-Packets and Routing
+3. Packets and Routing
+
 Video - (Packets and Routing mp4)
 
-HTTP and HTML
+4. HTTP and HTML
+
 Video - ( HTTP and HTML Mp4)
 
 #### Internet Organizations
