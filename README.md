@@ -18,19 +18,19 @@ Definition Of Internet
 #### Internet Components and Protocols
 1. Wires, Cable and Wifi 
 
-Video - {Wires, Cable and Wifi Mp4)
+   Video - {Wires, Cable and Wifi Mp4)
 
 2. IP Addresses and DNS
 
-Video - ( IP Addresses and DNS mp4)
+   Video - ( IP Addresses and DNS mp4)
 
 3. Packets and Routing
 
-Video - (Packets and Routing mp4)
+   Video - (Packets and Routing mp4)
 
 4. HTTP and HTML
 
-Video - ( HTTP and HTML Mp4)
+   Video - ( HTTP and HTML Mp4)
 
 #### Internet Organizations
 ICANN
