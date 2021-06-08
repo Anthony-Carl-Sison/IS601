@@ -1,6 +1,5 @@
-# IS601
-This is a school project for summer 2021 IS601
-
+# HISTORY OF INTERNET
+This is a school project for IS601 summer 2021
 
 ## Feature- Added TeamPage
 #### Meet The Team
@@ -42,3 +41,13 @@ More importantly, it provides an in-depth learning opportunity about how the Int
 
 
 ## Feature- Added HistoryPage
+
+
+#### The Story Of Internet- Browser Wars
+
+#### The Story Of Internet- Internet Search
+
+#### The Story Of Internet- Dot Com Bubble
+
+#### The Story Of Internet- People
+
