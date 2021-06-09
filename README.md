@@ -9,6 +9,9 @@ Team Member Linkedin Account
 
 Anthony Carl Sison's LinkedIn : https://www.linkedin.com/in/anthony-sison/
 
+## Feature - Hero Text Ideas
+1) A Brief Dive into How the Internet Works Suitable for All Ages
+2) Internet: Why's it the Greatest Invention of Our Time and the Next?
 
 
 ## Feature- Added HomePage
@@ -54,7 +57,6 @@ More importantly, it provides an in-depth learning opportunity about how the Int
 
 
 ## Feature- Added HistoryPage
-
 
 #### The Story Of Internet- Browser Wars
 
