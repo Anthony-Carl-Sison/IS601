@@ -69,6 +69,9 @@ More importantly, it provides an in-depth learning opportunity about how the Int
 
 ## Feature - Footer Menu
 Add links to socials
+
 Add links to next/previous pages
+
 Add links to Contact infomation
+
 
