@@ -3,15 +3,22 @@ This is a school project for IS601 summer 2021
 
 ## Feature- Added TeamPage
 #### Meet The Team
+
 Anthony-Carl-Sison & Olushola Sadiq Anifowose
 
 Team Member Linkedin Account
 
 Anthony Carl Sison's LinkedIn : https://www.linkedin.com/in/anthony-sison/
 
+
+Olushola Sadiq Anifowose's Linkedin: https://www.linkedin.com/in/olushola-anifowose-05360b207/
+
+Team Members Images Added
+
 ## Feature - Hero Text Ideas
 1) A Brief Dive into How the Internet Works Suitable for All Ages
 2) Internet: Why's it the Greatest Invention of Our Time and the Next?
+
 
 
 ## Feature- Added HomePage
