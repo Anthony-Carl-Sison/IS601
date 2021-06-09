@@ -10,9 +10,15 @@ Team Member Linkedin Account
 
 Anthony Carl Sison's LinkedIn : https://www.linkedin.com/in/anthony-sison/
 
+
 Olushola Sadiq Anifowose's Linkedin: https://www.linkedin.com/in/olushola-anifowose-05360b207/
 
 Team Members Images Added
+
+## Feature - Hero Text Ideas
+1) A Brief Dive into How the Internet Works Suitable for All Ages
+2) Internet: Why's it the Greatest Invention of Our Time and the Next?
+
 
 
 ## Feature- Added HomePage
@@ -59,7 +65,6 @@ More importantly, it provides an in-depth learning opportunity about how the Int
 
 ## Feature- Added HistoryPage
 
-
 #### The Story Of Internet- Browser Wars
 
 #### The Story Of Internet- Internet Search
@@ -67,4 +72,13 @@ More importantly, it provides an in-depth learning opportunity about how the Int
 #### The Story Of Internet- Dot Com Bubble
 
 #### The Story Of Internet- People
+
+
+## Feature - Footer Menu
+Add links to socials
+
+Add links to next/previous pages
+
+Add links to Contact infomation
+
 
