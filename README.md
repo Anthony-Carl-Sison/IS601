@@ -3,9 +3,17 @@ This is a school project for IS601 summer 2021
 
 ## Feature- Added TeamPage
 #### Meet The Team
+
 Anthony-Carl-Sison & Olushola Sadiq Anifowose
 
 Team Member Linkedin Account
+
+Anthony Carl Sison's LinkedIn : https://www.linkedin.com/in/anthony-sison/
+
+
+Olushola Sadiq Anifowose's Linkedin: https://www.linkedin.com/in/olushola-anifowose-05360b207/
+
+Team Members Images Added
 
 
 ## Feature- Added HomePage
@@ -52,7 +60,6 @@ More importantly, it provides an in-depth learning opportunity about how the Int
 
 ## Feature- Added HistoryPage
 
-
 #### The Story Of Internet- Browser Wars
 
 #### The Story Of Internet- Internet Search
@@ -60,4 +67,6 @@ More importantly, it provides an in-depth learning opportunity about how the Int
 #### The Story Of Internet- Dot Com Bubble
 
 #### The Story Of Internet- People
+
+
 
